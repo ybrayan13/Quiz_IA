@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CrearCuentaTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-06-04T21:07:06" hostname="DESKTOP-Q5JLVJD" time="6.868">
+  <properties/>
+  <testcase name="Test_4ingresarPass" classname="CrearCuentaTest" time="2.26"/>
+  <testcase name="Test_2seleccionarTipoDocumento" classname="CrearCuentaTest" time="2.417"/>
+  <testcase name="Test_3ingresarId" classname="CrearCuentaTest" time="2.19"/>
+  <system-out><![CDATA[entro
+inicio lista
+CEDULA DE CIUDADANIA
+CARNE DIPLOMATICO
+CEDULA DE EXTRANJERIA
+MENOR SIN IDENTIFICACION
+N.I.T
+NUMERO UNICO DE IDENTIFICACION
+PASAPORTE
+PERMISO ESPECIAL DE PERMANENCIA
+REGISTRO CIVIL
+SALVOCONDUCTO DE PERMANENCIA
+TARJETA DE IDENTIFICACION
+CEDULA DE CIUDADANIA
+fin lista
+entro
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}) on port 21804
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1622840822.986][WARNING]: This version of ChromeDriver has not been tested with Chrome version 91.
+jun 04, 2021 4:07:03 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+]]></system-err>
+</testsuite>
